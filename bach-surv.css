@@ -1,0 +1,36 @@
+main{
+    height: 100vh
+    box-sizing: border-box;    
+}
+
+h1{
+    font-family: 'farro', sans-serif;
+    border: 2px solid blue;
+}
+
+h2{
+    font-family: 'farro', sans-serif;
+    border: 2px solid maroon;
+}
+
+p{
+    font-family: 'roboto', sans-serif;
+}
+
+.intro-para{
+    height: 20%;
+    border: 2px dotted red;
+}
+
+.bach-photo{
+    height: 70%;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+}
+
+.submit{
+    height: 10%;
+    border: 2px solid magenta;
+    font-family: 'roboto', sans-serif;
+}
