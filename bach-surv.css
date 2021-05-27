@@ -132,11 +132,18 @@ p {
 }
 
 .submit {
-    height: 20%;
-    font-family: 'roboto', sans-serif;
+    height: 10%;
     display: flex;
     align-items: center;
     justify-content: center
+}
+
+.restart {
+	height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	margin-top: 10vh;
 }
 
 .container {
