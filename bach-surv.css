@@ -18,7 +18,7 @@ p {
 }
 
 .bach-photo {
-    height: 80%;
+    height: 70%;
     margin-left: auto;
     margin-right: auto;
     width: 12em
@@ -144,6 +144,14 @@ p {
     align-items: center;
     justify-content: center;
 	margin-top: 10vh;
+}
+
+.direction {
+	height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	margin-bottom: 5vh;
 }
 
 .container {
