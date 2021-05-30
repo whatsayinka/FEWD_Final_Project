@@ -34,7 +34,6 @@ refresh.addEventListener('click', () => {
   window.location.reload()
 })
 
-
 const modal = document.getElementById("myModal");
 
 const btn = document.getElementById("StartBtn");
